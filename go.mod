@@ -5,9 +5,9 @@ go 1.16
 require (
 	github.com/agiledragon/gomonkey/v2 v2.2.0
 	github.com/golang/mock v1.6.0
-	github.com/google/uuid v1.1.2
-	github.com/pkg/errors v0.8.1
+	github.com/google/uuid v1.3.0
+	github.com/pkg/errors v0.9.1
 	github.com/shirou/gopsutil/v3 v3.22.6
-	google.golang.org/grpc v1.49.0
+	google.golang.org/grpc v1.56.3
 	skywalking.apache.org/repo/goapi v0.0.0-20221019074310-53ebda305187
 )
